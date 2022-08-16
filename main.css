@@ -92,6 +92,24 @@ ul {
     margin-left: 20rem;
 }
 
+/* education */
+#education {
+    margin-bottom: 2rem;
+}
+
+#education h2 {
+    margin-bottom: 1rem;
+    border-bottom: 1px solid black;
+}
+
+#education span {
+    font-weight: bold;
+}
+
+#education li {
+    margin-bottom: 1rem;
+}
+
 
 
 @media print {
