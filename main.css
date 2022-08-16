@@ -39,6 +39,23 @@ ul {
    border-bottom: 1px solid black;
 }
 
+.contact-span{
+    font-weight: bold;
+}
+
+#contact-list {
+    line-height: 200%;
+}
+
+/* skills section */
+#skills {
+    margin-top: 2rem;
+}
+
+#skills-list {
+    display: flex;
+    justify-content: space-between;
+}
 
 
 @media print {
