@@ -52,10 +52,46 @@ ul {
     margin-top: 2rem;
 }
 
+#skills h2 {
+    border-bottom: 1px solid black;
+    margin-bottom: 1rem;
+}
+
 #skills-list {
     display: flex;
     justify-content: space-between;
 }
+
+/* experience section */
+#experience {
+    margin-top: 2rem;
+}
+
+#experience-container {
+    width: 85%;
+}
+
+.experience-item { 
+    margin-bottom: 2rem;
+}
+
+#experience h2 {
+    border-bottom: 1px solid black;
+    margin-bottom: 1rem;
+}
+
+#experience h3 {
+    text-align: center;
+}
+
+#experience p {
+    margin-left: 3.5rem;
+}
+
+#experience a {
+    margin-left: 20rem;
+}
+
 
 
 @media print {
