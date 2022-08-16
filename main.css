@@ -24,12 +24,13 @@ ul {
     font-family: 'EB Garamond', serif;
     font-size: 3rem;
     letter-spacing: 3px;
-    margin: 1rem 0 2rem 7rem;
+    margin: 1rem 0 2rem 5rem;
 }
 
 #header-summary {
-    margin: 0 0 2rem 1rem;    
+    margin: 0 0rem 2rem 1rem;    
     font-family: 'IBM Plex Serif', serif;
+    width: 89%;
 }
 
 /* contact section */
