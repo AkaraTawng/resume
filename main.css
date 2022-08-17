@@ -19,7 +19,7 @@ ul {
     list-style-type: none;
 }
 
-/* header section */
+/* header */
 #header-title {
     font-family: 'EB Garamond', serif;
     font-size: 3rem;
@@ -33,7 +33,7 @@ ul {
     width: 89%;
 }
 
-/* contact section */
+/* contact */
 #contact-header {
    margin: 0 0 1rem 0;
    border-bottom: 1px solid black;
@@ -47,7 +47,7 @@ ul {
     line-height: 200%;
 }
 
-/* skills section */
+/* skills */
 #skills {
     margin-top: 2rem;
 }
@@ -62,7 +62,7 @@ ul {
     justify-content: space-between;
 }
 
-/* experience section */
+/* experience */
 #experience {
     margin-top: 2rem;
 }
@@ -98,9 +98,60 @@ ul {
 }
 
 #education h2 {
-    margin-bottom: 1rem;
+    /* margin-bottom: 1rem; */
     border-bottom: 1px solid black;
 }
+
+#education h3 {
+    margin-left: 18rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+/* free code camp */
+#education h3:nth-child(4) {
+    margin-top: 2rem;
+}
+
+/* codecademy */
+#education h3:nth-child(6) {
+    margin-top: 2rem;
+}
+
+/* jad joubran */
+#edli1 {
+    margin-left: 17.5rem;
+}
+
+#edli2 {
+    margin-left: 18rem;
+}
+
+
+/* free code camp */
+#edli3 {
+    margin-left: 16.5rem;
+}
+
+#edli4 {
+    margin-left: 12rem;
+}
+
+#edli5 {
+    margin-left: 14rem;
+}
+
+
+/* codeacademy */
+#edli6 {
+    margin-left: 16.5rem;
+}
+
+#edli7 {
+    margin-left: 15.7rem;
+}
+
+
 
 #education span {
     font-weight: bold;
