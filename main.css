@@ -82,15 +82,37 @@ ul {
 }
 
 #experience h3 {
-    text-align: center;
+    margin-left: 21rem;
+    margin-bottom: 0.5rem;
+}
+
+#man-with-a-spade h3 {
+    margin-left: 19rem;
+}
+
+#man-with-a-spade p {
+    margin-bottom: 1rem;
+}
+
+#survey-form h3 {
+    margin-left: 20rem;
+}
+
+#survey-form p {
+    margin-bottom: 1rem;
+}
+
+#tribute-site h3 {
+    margin-left: 20rem;
 }
 
 #experience p {
-    margin-left: 3.5rem;
+    margin-left: 2rem;
+    width: 120%;
 }
 
 #experience a {
-    margin-left: 20rem;
+    margin-left: 21.5rem;
 }
 
 /* education */
