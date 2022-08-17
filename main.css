@@ -162,6 +162,10 @@ ul {
 }
 
 
+/* work experience */
+h2 {
+    border-bottom: 1px solid black;
+}
 
 @media print {
     body {
