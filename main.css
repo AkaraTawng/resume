@@ -192,17 +192,64 @@ ul {
     margin: 0 0 1rem 0;
 }
 
+/* cambly */
 #work-experience h3:nth-child(2){
-    color: red;
+    /* color: red; */
     margin-left: 19rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
 }
+
+/* cambly ul */
+#cambly-ul li:nth-child(1) {
+    /* color: red; */
+    margin-left: 21.5rem;
+    margin-bottom: 1rem;
+}
+
+#cambly-ul li:nth-child(1) span:nth-child(1) {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+#cambly-ul li:nth-child(1) span:nth-child(3) {
+    margin-left: 0.95rem;
+}
+
+
+#cambly-ul li:nth-child(2) {
+    /* color: burlywood; */
+    margin-left: 16rem;
+    margin-bottom: 1rem;
+}
+
+
+#cambly-ul li:nth-child(2) span:nth-child(1) {
+    font-weight: bold;
+    margin-left: 6rem;
+    font-size: 1.2rem;
+}
+
+#cambly-ul li:nth-child(2) span:nth-child(3) {
+    margin-left: 2.5rem;
+}
+
+
+/* phatthana */
+
 
 #work-experience h3:nth-child(4){
     color: purple;
     margin-left: 18.3rem;
+    margin-top: 2rem;
+   
+   
+
 
 }
 
+
+/* bright */
 #work-experience h3:nth-child(6){
     color: blue;
     margin-left: 17rem;
