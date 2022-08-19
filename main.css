@@ -192,6 +192,24 @@ ul {
     margin: 0 0 1rem 0;
 }
 
+#work-experience h3:nth-child(2){
+    color: red;
+    margin-left: 19rem;
+}
+
+#work-experience h3:nth-child(4){
+    color: purple;
+    margin-left: 18.3rem;
+
+}
+
+#work-experience h3:nth-child(6){
+    color: blue;
+    margin-left: 17rem;
+
+}
+
+
 
 @media print {
     body {
