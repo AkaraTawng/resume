@@ -211,16 +211,18 @@ h2 {
     margin-bottom: 1rem;
 }
 
+/* company */
 #cambly-ul li:nth-child(1) span:nth-child(1) {
     font-weight: bold;
     font-size: 1.2rem;
 }
 
+/* company cambly */
 #cambly-ul li:nth-child(1) span:nth-child(3) {
     margin-left: 0.95rem;
 }
 
-
+/* position li */
 #cambly-ul li:nth-child(2) {
     /* color: burlywood; */
     margin-left: 16rem;
@@ -228,40 +230,71 @@ h2 {
 }
 
 
+/* position */
 #cambly-ul li:nth-child(2) span:nth-child(1) {
     font-weight: bold;
     margin-left: 6rem;
     font-size: 1.2rem;
 }
 
+/* position esl tutor */
 #cambly-ul li:nth-child(2) span:nth-child(3) {
     margin-left: 2.5rem;
 }
 
 
 /* phatthana */
-
-
 #work-experience h3:nth-child(4){
-    color: purple;
+    /* color: purple; */
     margin-left: 18.3rem;
-    margin-top: 2rem;
-   
-   
-
-
+    margin-top: 3rem;
+    margin-bottom: 1rem;
 }
+
+#phatthana-ul li:nth-child(1) {
+    margin-bottom: 1rem;
+}
+/* company */
+#phatthana-ul li:nth-child(1) span:nth-child(1) {
+    /* color: coral; */
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 21.5rem;
+}
+
+/* company phatthana */
+#phatthana-ul li:nth-child(1) span:nth-child(3) {
+    /* color: green; */
+    margin-left: 18rem;
+}
+
+
+/* position */
+#phatthana-ul li:nth-child(2) span:nth-child(1) {
+    /* color: red; */
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-left: 21.5rem;
+    margin-top: 1rem;
+}
+
+/* esl tutor */
+#phatthana-ul li:nth-child(2) span:nth-child(3) {
+    /* color: yellow; */
+    margin-left: 18rem;
+}
+
 
 
 /* bright */
 #work-experience h3:nth-child(6){
     color: blue;
     margin-left: 17rem;
-
+    margin-top: 3rem;
 }
 
 
->>>>>>> dev
+
 
 @media print {
     body {
