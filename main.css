@@ -13,6 +13,7 @@
 h2 {
     font-family: 'EB Garamond', serif;
     color: rgb(7, 42, 200);
+    font-size: 2rem;
 }
 
 ul {
@@ -36,8 +37,13 @@ ul {
 /* contact */
 #contact-header {
    margin: 0 0 1rem 0;
-   border-bottom: 1px solid black;
 }
+
+#contact-underline {
+    width: 100%;
+    
+}
+
 
 .contact-span{
     font-weight: bold;
@@ -122,6 +128,7 @@ ul {
 
 #education h2 {
     /* margin-bottom: 1rem; */
+    padding-top: 3rem;
     border-bottom: 1px solid black;
 }
 
@@ -274,24 +281,55 @@ h2 {
     /* color: red; */
     font-size: 1.2rem;
     font-weight: bold;
-    margin-left: 21.5rem;
+    margin-left: 22rem;
     margin-top: 1rem;
 }
 
 /* esl tutor */
 #phatthana-ul li:nth-child(2) span:nth-child(3) {
     /* color: yellow; */
-    margin-left: 18rem;
+    margin-left: 18.8rem;
 }
 
 
 
 /* bright */
 #work-experience h3:nth-child(6){
-    color: blue;
+    /* color: blue; */
     margin-left: 17rem;
     margin-top: 3rem;
+    margin-bottom: 1rem;
 }
+
+#bright-ul li:nth-child(1){
+    margin-bottom: 1rem;
+}
+
+#bright-ul li:nth-child(1) span:nth-child(1) {
+    /* color: green; */
+    margin-left: 21.7rem;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+#bright-ul li:nth-child(1) span:nth-child(3) {
+    /* color: orange; */
+    margin-left: 15rem;
+}
+
+#bright-ul li:nth-child(2) span:nth-child(1) {
+    /* color: blue; */
+    margin-left: 21.9rem;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+#bright-ul li:nth-child(2) span:nth-child(3) {
+    /* color: blueviolet; */
+    margin-left: 18.7rem;
+}
+
+
 
 
 
