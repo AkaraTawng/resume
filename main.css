@@ -102,7 +102,7 @@ ul {
 
 /* experience */
 #experience {
-    margin-top: 2rem;
+    margin-top: 20px;
 }
 
 #experience-container {
@@ -123,6 +123,10 @@ ul {
     margin-bottom: 0.5rem;
 }
 
+#calculator h3 {
+    margin-top: 30px;
+}
+
 #man-with-a-spade h3 {
     margin-left: 19rem;
 }
@@ -140,6 +144,7 @@ ul {
 }
 
 #tribute-site h3 {
+    padding-top: 20px;
     margin-left: 20rem;
 }
 
