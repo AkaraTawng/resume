@@ -53,6 +53,36 @@ ul {
     line-height: 200%;
 }
 
+#contact-list li:nth-child(2) {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#email-name-span {
+    font-size: 1.1rem;
+    margin-left: 350px;
+}
+
+#email-span {
+    margin-left: 250px;
+}
+
+#phone-name-span {
+    margin-left: 350px;
+}
+
+#phone-span {
+    margin-left: 295px;
+}
+
+#address-name-span {
+    margin-left: 345px;
+}
+
+#address-span {
+    margin-left: 295px;
+}
+
 /* skills */
 #skills {
     margin-top: 2rem;
