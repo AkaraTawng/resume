@@ -190,7 +190,7 @@ ul {
 }
 
 #education h3 {
-    margin-left: 20.5rem;
+    margin-left: 300px;
     margin-bottom: 1rem;
     margin-top: 1rem;
 }
@@ -198,45 +198,46 @@ ul {
 /* free code camp */
 #education h3:nth-child(4) {
     margin-top: 2rem;
-    margin-left: 20rem;
+    margin-left: 290px;
 }
 
 /* codecademy */
 #education h3:nth-child(6) {
-    margin-top: 2rem;
+    margin-top: 40px;
+
 }
 
 /* jad joubran */
 #edli1 {
-    margin-left: 19.5rem;
+    margin-left: 271px;
 }
 
 #edli2 {
-    margin-left: 20rem;
+    margin-left: 278px;
 }
 
 
 /* free code camp */
 #edli3 {
-    margin-left: 18.5rem;
+    margin-left: 250px;
 }
 
 #edli4 {
-    margin-left: 14rem;
+    margin-left: 170px;
 }
 
 #edli5 {
-    margin-left: 16.5rem;
+    margin-left: 213px;
 }
 
 
 /* codeacademy */
 #edli6 {
-    margin-left: 19rem;
+    margin-left: 250px;
 }
 
 #edli7 {
-    margin-left: 18rem;
+    margin-left: 240px;
 }
 
 
@@ -263,7 +264,7 @@ h2 {
 /* cambly */
 #work-experience h3:nth-child(2){
     /* color: red; */
-    margin-left: 18.5rem;
+    margin-left: 280px;
     margin-bottom: 1rem;
     margin-top: 1rem;
     font-size: 1.4rem;
@@ -272,7 +273,7 @@ h2 {
 /* cambly ul */
 #cambly-ul li:nth-child(1) {
     /* color: red; */
-    margin-left: 21.5rem;
+    margin-left: 320px;
     margin-bottom: 1rem;
 }
 
@@ -284,13 +285,13 @@ h2 {
 
 /* company cambly */
 #cambly-ul li:nth-child(1) span:nth-child(3) {
-    margin-left: 0.95rem;
+    margin-left: 25px;
 }
 
 /* position li */
 #cambly-ul li:nth-child(2) {
     /* color: burlywood; */
-    margin-left: 16rem;
+    margin-left: 234px;
     margin-bottom: 1rem;
 }
 
@@ -298,20 +299,20 @@ h2 {
 /* position */
 #cambly-ul li:nth-child(2) span:nth-child(1) {
     font-weight: bold;
-    margin-left: 6rem;
+    margin-left: 100px;
     font-size: 1.2rem;
 }
 
 /* position esl tutor */
 #cambly-ul li:nth-child(2) span:nth-child(3) {
-    margin-left: 2.5rem;
+    margin-left: 44px;
 }
 
 
 /* phatthana */
 #work-experience h3:nth-child(4){
     /* color: purple; */
-    margin-left: 17.5rem;
+    margin-left: 265px;
     margin-top: 3rem;
     margin-bottom: 1rem;
     font-size: 1.4rem;
@@ -326,13 +327,13 @@ h2 {
     /* color: coral; */
     font-size: 1.2rem;
     font-weight: bold;
-    margin-left: 21.5rem;
+    margin-left: 320px;
 }
 
 /* company phatthana */
 #phatthana-ul li:nth-child(1) span:nth-child(3) {
     /* color: green; */
-    margin-left: 18rem;
+    margin-left: 260px;
 }
 
 
@@ -341,14 +342,14 @@ h2 {
     /* color: red; */
     font-size: 1.2rem;
     font-weight: bold;
-    margin-left: 22rem;
+    margin-left: 325px;
     margin-top: 1rem;
 }
 
 /* esl tutor */
 #phatthana-ul li:nth-child(2) span:nth-child(3) {
     /* color: yellow; */
-    margin-left: 18.8rem;
+    margin-left: 275px;
 }
 
 
@@ -356,8 +357,8 @@ h2 {
 /* bright */
 #work-experience h3:nth-child(6){
     /* color: blue; */
-    margin-left: 16.5rem;
-    margin-top: 3rem;
+    margin-left: 237px;
+    padding-top: 30px;
     margin-bottom: 1rem;
     font-size: 1.4rem;
 
@@ -369,7 +370,7 @@ h2 {
 
 #bright-ul li:nth-child(1) span:nth-child(1) {
     /* color: green; */
-    margin-left: 21.7rem;
+    margin-left: 325px;
     font-weight: bolder;
     font-size: 1.2rem;
 }
@@ -381,14 +382,14 @@ h2 {
 
 #bright-ul li:nth-child(2) span:nth-child(1) {
     /* color: blue; */
-    margin-left: 21.9rem;
+    margin-left: 332px;
     font-weight: bolder;
     font-size: 1.2rem;
 }
 
 #bright-ul li:nth-child(2) span:nth-child(3) {
     /* color: blueviolet; */
-    margin-left: 18.7rem;
+    margin-left: 285px;
 }
 
 
