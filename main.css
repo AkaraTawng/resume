@@ -44,7 +44,6 @@ ul {
     
 }
 
-
 .contact-span{
     font-weight: bold;
 }
@@ -60,27 +59,27 @@ ul {
 
 #email-name-span {
     font-size: 1.1rem;
-    margin-left: 350px;
+    margin-left: 320px;
 }
 
 #email-span {
-    margin-left: 250px;
+    margin-left: 220px;
 }
 
 #phone-name-span {
-    margin-left: 350px;
+    margin-left: 320px;
 }
 
 #phone-span {
-    margin-left: 295px;
+    margin-left: 265px;
 }
 
 #address-name-span {
-    margin-left: 345px;
+    margin-left: 315px;
 }
 
 #address-span {
-    margin-left: 295px;
+    margin-left: 265px;
 }
 
 /* skills */
@@ -91,7 +90,7 @@ ul {
 
 #skills h2 {
     border-bottom: 1px solid black;
-    margin-bottom: 1rem;
+    margin-bottom: 20px;
 }
 
 #skills-list {
