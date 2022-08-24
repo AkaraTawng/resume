@@ -106,6 +106,7 @@ ul {
 
 #experience-container {
     width: 85%;
+
 }
 
 .experience-item { 
@@ -118,42 +119,63 @@ ul {
 }
 
 #experience h3 {
-    margin-left: 21rem;
+    margin-left: 70px;
     margin-bottom: 0.5rem;
 }
 
 #calculator h3 {
     margin-top: 30px;
+    margin-left: 310px;
+}
+
+#calculator p {
+    margin-right: 20px;
+}
+
+#calculator a {
+    margin-left: 319px;
+    
 }
 
 #man-with-a-spade h3 {
-    margin-left: 19rem;
+    margin-left: 275px;
 }
 
 #man-with-a-spade p {
-    margin-bottom: 1rem;
+    margin-bottom: 13px;
+}
+
+#man-with-a-spade a {
+    margin-left: 313px;
 }
 
 #survey-form h3 {
-    margin-left: 20rem;
+    margin-left: 295px;
 }
 
 #survey-form p {
     margin-bottom: 1rem;
 }
 
+#survey-form a {
+    margin-left: 309px;
+}
+
 #tribute-site h3 {
     padding-top: 30px;
-    margin-left: 20rem;
+    margin-left: 295px;
+}
+
+#tribute-site a {
+    margin-left: 310px;
 }
 
 #experience p {
-    margin-left: 2rem;
     width: 120%;
 }
 
 #experience a {
-    margin-left: 21.5rem;
+    /* margin-left: 317px; */
 }
 
 /* education */
